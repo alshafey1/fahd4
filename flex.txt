@@ -1,0 +1,143 @@
+{
+    "altText": "\ud835\udddd\ud835\uddee\ud835\udde1\ud835\uddee\ud835\uddd5\ud835\udddc",
+    "contents": {
+        "hero": {
+            "backgroundColor": "#339999",
+            "borderColor": "#339999",
+            "borderWidth": "2px",
+            "contents": [
+                {
+                    "action": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=u27603a2c021c18746b7aa34e3d2b2220"
+                    },
+                    "aspectMode": "cover",
+                    "aspectRatio": "30:7",
+                    "offsetBottom": "2px",
+                    "size": "full",
+                    "type": "image",
+                    "url": "https://obs.line-scdn.net/0hE28hsG1FGh0FEQx4g59lSjlUFHByPxxVfXFRcyVERi57dVlLOyVUcygSFyQoJVwbOSUCciMRRCUg"
+                },
+                {
+                    "aspectMode": "cover",
+                    "aspectRatio": "15:4",
+                    "position": "absolute",
+                    "size": "5xl",
+                    "type": "image",
+                    "url": "https://a.top4top.net/p_571t4gdd1.png"
+                },
+                {
+                    "aspectMode": "cover",
+                    "aspectRatio": "15:4",
+                    "offsetEnd": "0px",
+                    "position": "absolute",
+                    "size": "5xl",
+                    "type": "image",
+                    "url": "https://a.top4top.net/p_571t4gdd1.png"
+                },
+                {
+                    "backgroundColor": "#00000Cac",
+                    "contents": [
+                        {
+                            "text": "\u064e",
+                            "type": "text"
+                        }
+                    ],
+                    "height": "70px",
+                    "layout": "vertical",
+                    "position": "absolute",
+                    "type": "box",
+                    "width": "1000px"
+                },
+                {
+                    "borderColor": "#339999",
+                    "borderWidth": "2px",
+                    "contents": [
+                        {
+                            "aspectMode": "cover",
+                            "size": "full",
+                            "type": "image",
+                            "url": "https://obs.line-scdn.net/0hE28hsG1FGh0FEQx4g59lSjlUFHByPxxVfXFRcyVERi57dVlLOyVUcygSFyQoJVwbOSUCciMRRCUg"
+                        }
+                    ],
+                    "cornerRadius": "100px",
+                    "height": "42px",
+                    "layout": "vertical",
+                    "offsetStart": "3px",
+                    "offsetTop": "10px",
+                    "position": "absolute",
+                    "type": "box",
+                    "width": "42px"
+                },
+                {
+                    "contents": [
+                        {
+                            "type": "filler"
+                        },
+                        {
+                            "action": {
+                                "label": "\ud835\udddd\ud835\uddee\ud835\udde1\ud835\uddee\ud835\uddd5\ud835\udddc",
+                                "type": "uri",
+                                "uri": "line://nv/profilePopup/mid=u27603a2c021c18746b7aa34e3d2b2220"
+                            },
+                            "color": "#33FFCCac",
+                            "type": "button"
+                        },
+                        {
+                            "type": "filler"
+                        }
+                    ],
+                    "height": "70px",
+                    "layout": "vertical",
+                    "position": "absolute",
+                    "type": "box",
+                    "width": "300px"
+                },
+                {
+                    "borderColor": "#339999",
+                    "borderWidth": "2px",
+                    "contents": [
+                        {
+                            "aspectMode": "cover",
+                            "size": "full",
+                            "type": "image",
+                            "url": "https://obs.line-scdn.net/0hE28hsG1FGh0FEQx4g59lSjlUFHByPxxVfXFRcyVERi57dVlLOyVUcygSFyQoJVwbOSUCciMRRCUg"
+                        }
+                    ],
+                    "cornerRadius": "100px",
+                    "height": "42px",
+                    "layout": "vertical",
+                    "offsetEnd": "3px",
+                    "offsetTop": "10px",
+                    "position": "absolute",
+                    "type": "box",
+                    "width": "42px"
+                },
+                {
+                    "backgroundColor": "#00000Cac",
+                    "contents": [
+                        {
+                            "align": "center",
+                            "color": "#33FFCCac",
+                            "text": "Key kickall has been change",
+                            "type": "text",
+                            "wrap": true
+                        }
+                    ],
+                    "layout": "vertical",
+                    "margin": "sm",
+                    "type": "box"
+                },
+                {
+                    "type": "spacer"
+                }
+            ],
+            "cornerRadius": "18px",
+            "layout": "vertical",
+            "type": "box"
+        },
+        "size": "mega",
+        "type": "bubble"
+    },
+    "type": "flex"
+}

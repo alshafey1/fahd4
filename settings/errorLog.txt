@@ -1,0 +1,748 @@
+
+[Minggu, 04 - November - 2018 | 10:09:02] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 11:54:05] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 13:15:24] TalkException(parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, code=10, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Minggu, 04 - November - 2018 | 13:22:27] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:04:35] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:46:53] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 18:15:01] 'NoneType' object does not support item assignment
+[Minggu, 04 - November - 2018 | 19:00:42] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 19:29:56] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 21:01:33] Invalid mids
+[Minggu, 04 - November - 2018 | 21:39:21] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 09:23:51] local variable 'hasil' referenced before assignment
+[Senin, 05 - November - 2018 | 09:27:54] TalkException(code=10, parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Senin, 05 - November - 2018 | 09:27:54] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 10:19:02] Download file failure.
+[Senin, 05 - November - 2018 | 10:43:15] 'NoneType' object does not support item assignment
+[Senin, 05 - November - 2018 | 11:46:56] Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+[Senin, 05 - November - 2018 | 17:09:45] local variable 'url' referenced before assignment
+[Senin, 05 - November - 2018 | 20:05:58] HTTPSConnectionPool(host='api.eater.tech', port=443): Max retries exceeded with url: /wallp/hinata (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7efdd1e86668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+[Senin, 05 - November - 2018 | 20:40:55] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:19] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:53] Download object failure.
+[Senin, 05 - November - 2018 | 22:29:40] HTTPSConnectionPool(host='noxtapi.inth.red', port=443): Max retries exceeded with url: /bounzen (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f672c787358>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Senin, 05 - November - 2018 | 23:28:42] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:37:54] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:39:24] Download object failure.
+[Selasa, 06 - November - 2018 | 00:19:53] local variable 'contact' referenced before assignment
+[Selasa, 06 - November - 2018 | 00:30:06] 'list' object has no attribute 'startswith'
+[Senin, 12 - 08 - 2019 | 19:06:58] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:07:24] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:07:30] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:11:13] name 'noobcoder1' is not defined
+[Senin, 12 - 08 - 2019 | 19:11:29] name 'noobcoder1' is not defined
+[Senin, 12 - 08 - 2019 | 19:13:19] list index out of range
+[Senin, 12 - 08 - 2019 | 19:14:13] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:14:30] list index out of range
+[Senin, 12 - 08 - 2019 | 19:14:39] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:15:10] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:15:15] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:15:54] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:16:07] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:16:08] Invalid mids
+[Senin, 12 - 08 - 2019 | 19:17:59] 'LINE' object has no attribute 'sendMessage1'
+[Senin, 12 - 08 - 2019 | 19:18:11] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:18:23] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:19:07] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:19:46] Invalid mids
+[Senin, 12 - 08 - 2019 | 19:19:58] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:21:36] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:24:38] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:24:49] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:26:58] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:27:29] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:27:34] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:31:02] invalid literal for int() with base 10: 'fatih|u4918a877b45a74be73c325a76111ee9b'
+[Senin, 12 - 08 - 2019 | 19:31:07] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 19:31:22] invalid literal for int() with base 10: 'u4918a877b45a74be73c325a76111ee9b'
+[Senin, 12 - 08 - 2019 | 19:31:42] invalid literal for int() with base 10: 'fatih'
+[Senin, 12 - 08 - 2019 | 19:54:25] Invalid mids
+[Senin, 12 - 08 - 2019 | 20:03:34] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[Senin, 12 - 08 - 2019 | 20:32:24] invalid literal for int() with base 10: 'fero'
+[Selasa, 13 - 08 - 2019 | 01:24:00] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Selasa, 13 - 08 - 2019 | 06:17:35] Invalid mids
+[Selasa, 13 - 08 - 2019 | 14:55:23] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:44:48] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:45:12] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:45:51] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:46:32] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:46:37] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:46:58] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:47:05] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:47:11] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:48:31] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:48:52] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:49:22] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:49:58] invalid literal for int() with base 10: 'q'
+[Rabu, 04 - 09 - 2019 | 15:50:01] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:50:14] list index out of range
+[Rabu, 04 - 09 - 2019 | 15:50:25] Invalid mids
+[Rabu, 04 - 09 - 2019 | 15:57:55] list index out of range
+[Rabu, 04 - 09 - 2019 | 15:58:59] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 15:59:22] list index out of range
+[Rabu, 04 - 09 - 2019 | 15:59:36] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 16:00:10] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 17:13:00] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 17:15:52] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 04 - 09 - 2019 | 19:30:35] list index out of range
+[Rabu, 04 - 09 - 2019 | 19:32:27] list index out of range
+[Kamis, 05 - 09 - 2019 | 01:29:00] list index out of range
+[Kamis, 05 - 09 - 2019 | 13:12:57] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 05 - 09 - 2019 | 13:13:43] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 05 - 09 - 2019 | 13:17:19] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 05 - 09 - 2019 | 14:44:54] name 'noobcoder1' is not defined
+[Kamis, 05 - 09 - 2019 | 15:18:35] Request-sent
+[Kamis, 05 - 09 - 2019 | 15:18:48] Request-sent
+[Kamis, 05 - 09 - 2019 | 15:25:17] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Kamis, 05 - 09 - 2019 | 22:12:09] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Jumat, 06 - 09 - 2019 | 22:08:20] Request-sent
+[Jumat, 06 - 09 - 2019 | 22:08:24] Request-sent
+[Jumat, 06 - 09 - 2019 | 22:08:34] Request-sent
+[Sabtu, 07 - 09 - 2019 | 03:40:03] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Jumat, 13 - 09 - 2019 | 20:16:22] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Sabtu, 14 - 09 - 2019 | 13:43:33] Request-sent
+[Sabtu, 14 - 09 - 2019 | 16:23:27] Request-sent
+[Sabtu, 14 - 09 - 2019 | 16:23:31] Request-sent
+[Sabtu, 14 - 09 - 2019 | 16:23:41] Request-sent
+[Sabtu, 14 - 09 - 2019 | 21:45:15] Request-sent
+[Sabtu, 14 - 09 - 2019 | 21:45:24] Request-sent
+[Minggu, 15 - 09 - 2019 | 04:00:26] TalkException(code=0, reason='Cannot get group', parameterMap=None)
+[Senin, 16 - 09 - 2019 | 03:06:58] Invalid mids
+[Jumat, 25 - Oktober - 2019 | 14:33:36] name 'foro' is not defined
+[Jumat, 25 - Oktober - 2019 | 14:55:13] Invalid mids
+[Jumat, 25 - Oktober - 2019 | 14:56:53] local variable 'a' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 14:58:06] Invalid mids
+[Jumat, 25 - Oktober - 2019 | 15:00:29] local variable 'a' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:03:16] local variable 'a' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:04:04] local variable 'cd' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:06:38] list index out of range
+[Jumat, 25 - Oktober - 2019 | 15:06:54] list index out of range
+[Jumat, 25 - Oktober - 2019 | 15:07:50] list index out of range
+[Jumat, 25 - Oktober - 2019 | 15:08:04] list index out of range
+[Jumat, 25 - Oktober - 2019 | 15:08:22] local variable 'cd' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:10:25] 'str' object has no attribute 'keys'
+[Jumat, 25 - Oktober - 2019 | 15:12:39] local variable 'cd' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:13:13] 'str' object has no attribute 'keys'
+[Jumat, 25 - Oktober - 2019 | 15:14:41] 'str' object has no attribute 'keys'
+[Jumat, 25 - Oktober - 2019 | 15:20:14] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 25 - Oktober - 2019 | 15:21:02] 'builtin_function_or_method' object is not subscriptable
+[Jumat, 25 - Oktober - 2019 | 15:22:33] Invalid mids
+[Jumat, 25 - Oktober - 2019 | 15:23:36] 'builtin_function_or_method' object is not subscriptable
+[Jumat, 25 - Oktober - 2019 | 15:25:36] 'builtin_function_or_method' object is not subscriptable
+[Jumat, 25 - Oktober - 2019 | 15:28:03] local variable 'cd' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:30:58] local variable 'a' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:33:09] local variable 'a' referenced before assignment
+[Jumat, 25 - Oktober - 2019 | 15:33:50] unhashable type: 'list'
+[Jumat, 25 - Oktober - 2019 | 15:34:42] 0
+[Jumat, 25 - Oktober - 2019 | 15:38:03] object of type 'int' has no len()
+[Jumat, 25 - Oktober - 2019 | 15:39:17] 'no' is an invalid keyword argument for print()
+[Jumat, 25 - Oktober - 2019 | 15:44:16] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 25 - Oktober - 2019 | 15:44:42] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 25 - Oktober - 2019 | 15:47:57] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 25 - Oktober - 2019 | 15:48:14] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Jumat, 25 - Oktober - 2019 | 15:48:28] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Senin, 28 - Oktober - 2019 | 23:50:02] name 'helpAll' is not defined
+[Kamis, 31 - Oktober - 2019 | 17:57:10] 'u22a7c6ac6f32de0e7dec1a56b0746fdc'
+[Kamis, 31 - Oktober - 2019 | 17:58:11] 'u22a7c6ac6f32de0e7dec1a56b0746fdc'
+[Minggu, 03 - November - 2019 | 02:48:35] Request-sent
+[Senin, 04 - November - 2019 | 08:46:33] Request-sent
+[Senin, 04 - November - 2019 | 08:46:38] Request-sent
+[Senin, 04 - November - 2019 | 08:46:48] Request-sent
+[Senin, 04 - November - 2019 | 08:46:59] Request-sent
+[Senin, 04 - November - 2019 | 08:47:20] Request-sent
+[Senin, 04 - November - 2019 | 08:47:30] Request-sent
+[Senin, 04 - November - 2019 | 08:48:06] Request-sent
+[Rabu, 06 - November - 2019 | 20:02:15] 'uf172e35674ed1448be4811c957916608'
+[Rabu, 06 - November - 2019 | 20:02:36] 'uf4410b20cebdd26c2d0597d3d066f47e'
+[Rabu, 06 - November - 2019 | 20:02:47] 'uac3c62351cb4a6b93e41670b0f80509c'
+[Jumat, 08 - November - 2019 | 14:42:53] Request-sent
+[Jumat, 08 - November - 2019 | 14:44:41] Request-sent
+[Sabtu, 09 - November - 2019 | 21:42:21] TalkException(code=10, reason='You are not related to group: cba3d21b24e74f480d7d715e8620eee71', parameterMap={'2': 'cba3d21b24e74f480d7d715e8620eee71'})
+[Minggu, 10 - November - 2019 | 01:13:49] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 01:14:11] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 01:17:24] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 01:21:53] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 02:07:16] Request-sent
+[Minggu, 10 - November - 2019 | 02:32:31] 'u90404d41c3839c8c4fffda95961068dc'
+[Minggu, 10 - November - 2019 | 02:33:43] 'u90404d41c3839c8c4fffda95961068dc'
+[Minggu, 10 - November - 2019 | 03:05:12] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 07:21:43] Request-sent
+[Minggu, 10 - November - 2019 | 11:21:16] 'u48bec0f3b4d2861040cab18ba780cccb'
+[Minggu, 10 - November - 2019 | 11:21:16] 'uae77745bf61edd8eff3cfbefd335f565'
+[Minggu, 10 - November - 2019 | 23:42:31] Request-sent
+[Minggu, 10 - November - 2019 | 23:42:35] Request-sent
+[Minggu, 10 - November - 2019 | 23:42:45] Request-sent
+[Senin, 11 - November - 2019 | 09:14:42] Request-sent
+[Senin, 11 - November - 2019 | 21:16:44] list index out of range
+[Rabu, 13 - November - 2019 | 01:57:26] 'u22bf5cf612858aedd15df6df051c1f4c'
+[Rabu, 13 - November - 2019 | 03:52:12] list index out of range
+[Rabu, 13 - November - 2019 | 09:24:53] Request-sent
+[Rabu, 13 - November - 2019 | 09:25:17] Request-sent
+[Rabu, 13 - November - 2019 | 14:31:14] Request-sent
+[Kamis, 14 - November - 2019 | 02:31:56] list index out of range
+[Kamis, 14 - November - 2019 | 07:48:59] Request-sent
+[Kamis, 14 - November - 2019 | 11:56:52] Request-sent
+[Jumat, 15 - November - 2019 | 04:37:41] 'ue99ec6b59c9cebef08c10daad1b39e74'
+[Jumat, 15 - November - 2019 | 05:15:32] 'uee23ccadee377b964e4308b2d09082bd'
+[Jumat, 15 - November - 2019 | 05:16:28] 'uee23ccadee377b964e4308b2d09082bd'
+[Sabtu, 16 - November - 2019 | 08:54:05] Request-sent
+[Sabtu, 16 - November - 2019 | 14:04:38] Request-sent
+[Sabtu, 16 - November - 2019 | 14:05:22] Request-sent
+[Sabtu, 16 - November - 2019 | 15:19:27] Request-sent
+[Sabtu, 16 - November - 2019 | 16:37:11] Request-sent
+[Sabtu, 16 - November - 2019 | 17:25:57] Request-sent
+[Sabtu, 16 - November - 2019 | 21:16:18] 'myservice'
+[Sabtu, 16 - November - 2019 | 21:28:48] 'u1a522448c7681a0975ebda292aa4e772'
+[Sabtu, 16 - November - 2019 | 21:47:37] 'u1a522448c7681a0975ebda292aa4e772'
+[Sabtu, 16 - November - 2019 | 21:49:23] 'u1a522448c7681a0975ebda292aa4e772'
+[Sabtu, 16 - November - 2019 | 21:50:55] 'u1a522448c7681a0975ebda292aa4e772'
+[Sabtu, 16 - November - 2019 | 23:08:42] 'u1a522448c7681a0975ebda292aa4e772'
+[Selasa, 19 - November - 2019 | 13:27:57] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 21 - November - 2019 | 07:44:30] name 'cl' is not defined
+[Kamis, 21 - November - 2019 | 07:46:14] local variable 'midd' referenced before assignment
+[Kamis, 21 - November - 2019 | 07:47:27] Object of type Contact is not JSON serializable
+[Kamis, 21 - November - 2019 | 07:52:23] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 21 - November - 2019 | 08:08:24] 'LINE' object has no attribute 'sendMention1'
+[Kamis, 21 - November - 2019 | 08:09:13] 'LINE' object has no attribute 'sendMention1'
+[Kamis, 21 - November - 2019 | 08:12:05] Request-sent
+[Kamis, 21 - November - 2019 | 08:34:21] Request-sent
+[Kamis, 21 - November - 2019 | 08:35:23] Request-sent
+[Kamis, 21 - November - 2019 | 08:47:04] Request-sent
+[Kamis, 21 - November - 2019 | 09:18:06] list index out of range
+[Kamis, 21 - November - 2019 | 09:22:42] Request-sent
+[Kamis, 21 - November - 2019 | 11:03:43] 'u1d62b7bbe247436bceefed0ca3112769'
+[Kamis, 21 - November - 2019 | 11:08:20] 'LINE' object has no attribute 'sendMention1'
+[Kamis, 21 - November - 2019 | 11:10:50] Request-sent
+[Kamis, 21 - November - 2019 | 11:10:59] Request-sent
+[Kamis, 21 - November - 2019 | 11:11:09] Request-sent
+[Kamis, 21 - November - 2019 | 11:12:44] 'u1d62b7bbe247436bceefed0ca3112769'
+[Kamis, 21 - November - 2019 | 11:22:00] local variable 'nama' referenced before assignment
+[Kamis, 21 - November - 2019 | 11:22:36] list index out of range
+[Kamis, 21 - November - 2019 | 11:25:25] Request-sent
+[Kamis, 21 - November - 2019 | 11:27:27] Request-sent
+[Kamis, 21 - November - 2019 | 11:33:48] name 'noobcoder1' is not defined
+[Kamis, 21 - November - 2019 | 11:37:39] Request-sent
+[Kamis, 21 - November - 2019 | 11:53:19] Request-sent
+[Kamis, 21 - November - 2019 | 13:31:54] 'customer'
+[Kamis, 21 - November - 2019 | 13:34:07] 'customer'
+[Kamis, 21 - November - 2019 | 13:34:23] 'customer'
+[Kamis, 21 - November - 2019 | 13:37:29] 'customers'
+[Kamis, 21 - November - 2019 | 13:37:48] 'customers'
+[Kamis, 21 - November - 2019 | 13:51:24] Invalid mids
+[Sabtu, 23 - November - 2019 | 17:29:20] invalid literal for int() with base 10: '@👽👽👽👽👽'
+[Sabtu, 23 - November - 2019 | 17:32:17] Request-sent
+[Sabtu, 23 - November - 2019 | 19:53:09] invalid literal for int() with base 10: '@➿'
+[Minggu, 24 - November - 2019 | 11:38:55] Request-sent
+[Senin, 25 - November - 2019 | 11:16:58] 'customers'
+[Rabu, 27 - November - 2019 | 15:25:30] invalid literal for int() with base 10: '@☠️☠️☠️'
+[Rabu, 27 - November - 2019 | 15:55:05] Request-sent
+[Rabu, 27 - November - 2019 | 16:01:51] Request-sent
+[Rabu, 27 - November - 2019 | 16:02:53] Request-sent
+[Rabu, 27 - November - 2019 | 16:02:58] Request-sent
+[Rabu, 27 - November - 2019 | 16:03:08] Request-sent
+[Rabu, 27 - November - 2019 | 16:06:45] Request-sent
+[Rabu, 27 - November - 2019 | 21:48:37] Request-sent
+[Rabu, 27 - November - 2019 | 21:51:28] Request-sent
+[Rabu, 27 - November - 2019 | 23:46:41] list index out of range
+[Kamis, 28 - November - 2019 | 04:54:42] list index out of range
+[Kamis, 28 - November - 2019 | 04:56:56] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 04:57:15] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 04:57:41] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 05:07:14] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 05:52:52] Request-sent
+[Kamis, 28 - November - 2019 | 07:16:28] Request-sent
+[Kamis, 28 - November - 2019 | 07:16:33] Request-sent
+[Kamis, 28 - November - 2019 | 07:16:43] Request-sent
+[Kamis, 28 - November - 2019 | 07:16:51] Request-sent
+[Kamis, 28 - November - 2019 | 07:16:56] Request-sent
+[Kamis, 28 - November - 2019 | 07:17:06] Request-sent
+[Kamis, 28 - November - 2019 | 12:31:33] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 12:32:08] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 12:32:51] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 12:34:44] list index out of range
+[Kamis, 28 - November - 2019 | 12:34:52] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 12:51:32] Request-sent
+[Kamis, 28 - November - 2019 | 13:14:35] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 18:58:30] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 18:58:51] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 19:05:42] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 19:36:23] name 'betamker' is not defined
+[Kamis, 28 - November - 2019 | 21:45:47] Request-sent
+[Kamis, 28 - November - 2019 | 22:21:55] 'u5a9ddba20752fca4ed4eed2bb6d87333'
+[Jumat, 29 - November - 2019 | 01:14:44] 'u5a9ddba20752fca4ed4eed2bb6d87333'
+[Jumat, 29 - November - 2019 | 01:20:20] Request-sent
+[Jumat, 29 - November - 2019 | 10:56:28] Request-sent
+[Jumat, 29 - November - 2019 | 19:44:56] Request-sent
+[Sabtu, 30 - November - 2019 | 02:51:49] Request-sent
+[Sabtu, 30 - November - 2019 | 10:47:49] name 'noobcoder1' is not defined
+[Sabtu, 30 - November - 2019 | 10:48:01] name 'noobcoder1' is not defined
+[Sabtu, 30 - November - 2019 | 10:49:02] name 'noobcoder1' is not defined
+[Sabtu, 30 - November - 2019 | 11:52:55] Request-sent
+[Minggu, 01 - 12 - 2019 | 10:28:56] name 'noobcoder1' is not defined
+[Minggu, 01 - 12 - 2019 | 12:05:37] Request-sent
+[Minggu, 01 - 12 - 2019 | 13:14:46] Request-sent
+[Minggu, 01 - 12 - 2019 | 13:14:46] Request-sent
+[Minggu, 01 - 12 - 2019 | 15:02:01] Request-sent
+[Minggu, 01 - 12 - 2019 | 15:54:32] Request-sent
+[Minggu, 01 - 12 - 2019 | 15:54:32] Request-sent
+[Senin, 02 - 12 - 2019 | 10:21:19] Request-sent
+[Rabu, 04 - 12 - 2019 | 21:28:30] Request-sent
+[Kamis, 05 - 12 - 2019 | 02:36:39] Request-sent
+[Kamis, 05 - 12 - 2019 | 12:10:27] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 12:10:28] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 12:11:37] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 12:11:37] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 13:43:20] Request-sent
+[Kamis, 05 - 12 - 2019 | 13:46:01] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 13:46:02] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 15:29:56] Request-sent
+[Kamis, 05 - 12 - 2019 | 15:31:24] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 15:31:24] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 18:14:26] Request-sent
+[Kamis, 05 - 12 - 2019 | 18:14:26] Request-sent
+[Kamis, 05 - 12 - 2019 | 18:41:21] Request-sent
+[Kamis, 05 - 12 - 2019 | 18:47:56] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 18:47:56] name 'noobcoder1' is not defined
+[Kamis, 05 - 12 - 2019 | 21:48:25] TalkException(code=10, reason='You are not related to group: c0222f30461ad9fa8e5ac31945cc4ac5a', parameterMap={'2': 'c0222f30461ad9fa8e5ac31945cc4ac5a'})
+[Jumat, 06 - 12 - 2019 | 00:27:20] TalkException(code=10, reason='You are not related to group: c882540b4f4fa40180ee24d1033cab328', parameterMap={'2': 'c882540b4f4fa40180ee24d1033cab328'})
+[Jumat, 06 - 12 - 2019 | 08:45:31] Request-sent
+[Sabtu, 07 - 12 - 2019 | 09:21:20] Request-sent
+[Sabtu, 07 - 12 - 2019 | 09:22:37] Request-sent
+[Sabtu, 07 - 12 - 2019 | 09:22:37] Request-sent
+[Sabtu, 07 - 12 - 2019 | 09:37:48] name 'noobcoder1' is not defined
+[Sabtu, 07 - 12 - 2019 | 09:46:22] name 'noobcoder1' is not defined
+[Sabtu, 07 - 12 - 2019 | 17:13:04] 'uf172e35674ed1448be4811c957916608'
+[Sabtu, 07 - 12 - 2019 | 17:22:53] Request-sent
+[Sabtu, 07 - 12 - 2019 | 17:52:29] Request-sent
+[Sabtu, 07 - 12 - 2019 | 18:46:34] Request-sent
+[Sabtu, 07 - 12 - 2019 | 20:51:49] Request-sent
+[Minggu, 08 - 12 - 2019 | 12:16:52] name 'noobcoder1' is not defined
+[Minggu, 08 - 12 - 2019 | 12:58:21] name 'noobcoder1' is not defined
+[Minggu, 08 - 12 - 2019 | 18:02:40] name 'noobcoder1' is not defined
+[Rabu, 11 - 12 - 2019 | 17:09:05] 'u90404d41c3839c8c4fffda95961068dc'
+[Rabu, 11 - 12 - 2019 | 17:24:09] Request-sent
+[Rabu, 11 - 12 - 2019 | 17:55:56] name 'log' is not defined
+[Rabu, 11 - 12 - 2019 | 18:04:22] Request-sent
+[Rabu, 11 - 12 - 2019 | 18:08:23] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Rabu, 11 - 12 - 2019 | 18:09:04] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Rabu, 11 - 12 - 2019 | 18:29:08] Request-sent
+[Rabu, 11 - 12 - 2019 | 23:00:19] Request-sent
+[Kamis, 12 - 12 - 2019 | 00:07:09] Request-sent
+[Kamis, 12 - 12 - 2019 | 11:10:52] Request-sent
+[Kamis, 12 - 12 - 2019 | 17:49:18] Request-sent
+[Kamis, 12 - 12 - 2019 | 17:49:21] Request-sent
+[Kamis, 12 - 12 - 2019 | 21:04:02] name 'client' is not defined
+[Jumat, 13 - 12 - 2019 | 11:43:41] Request-sent
+[Jumat, 13 - 12 - 2019 | 19:37:19] name 'noobcoder1' is not defined
+[Jumat, 13 - 12 - 2019 | 19:37:19] name 'noobcoder1' is not defined
+[Jumat, 13 - 12 - 2019 | 19:48:16] name 'noobcoder1' is not defined
+[Jumat, 13 - 12 - 2019 | 19:48:16] name 'noobcoder1' is not defined
+[Jumat, 13 - 12 - 2019 | 19:48:50] name 'noobcoder1' is not defined
+[Jumat, 13 - 12 - 2019 | 19:48:51] name 'noobcoder1' is not defined
+[Sabtu, 14 - 12 - 2019 | 12:03:13] name 'client' is not defined
+[Sabtu, 14 - 12 - 2019 | 14:36:42] Request-sent
+[Sabtu, 14 - 12 - 2019 | 14:39:01] Request-sent
+[Sabtu, 14 - 12 - 2019 | 16:12:34] Request-sent
+[Minggu, 15 - 12 - 2019 | 17:47:25] invalid literal for int() with base 10: 'w'
+[Minggu, 15 - 12 - 2019 | 17:54:53] Request-sent
+[Senin, 16 - 12 - 2019 | 19:35:31] Request-sent
+[Senin, 16 - 12 - 2019 | 21:08:09] Request-sent
+[Senin, 16 - 12 - 2019 | 21:08:12] Request-sent
+[Senin, 16 - 12 - 2019 | 21:08:22] Request-sent
+[Senin, 16 - 12 - 2019 | 22:03:31] name 'noobcoder1' is not defined
+[Senin, 16 - 12 - 2019 | 22:04:58] name 'noobcoder1' is not defined
+[Selasa, 17 - 12 - 2019 | 05:34:54] Request-sent
+[Rabu, 18 - 12 - 2019 | 16:02:25] list index out of range
+[Rabu, 18 - 12 - 2019 | 16:06:22] Request-sent
+[Sabtu, 21 - 12 - 2019 | 01:00:31] invalid literal for int() with base 10: '@din'
+[Sabtu, 21 - 12 - 2019 | 11:55:47] Request-sent
+[Sabtu, 21 - 12 - 2019 | 11:55:55] Request-sent
+[Sabtu, 21 - 12 - 2019 | 11:56:05] Request-sent
+[Sabtu, 21 - 12 - 2019 | 17:59:05] 'u8d515ca33bdc9fed22a5300b80280647'
+[Minggu, 22 - 12 - 2019 | 15:10:37] name 'noobcoder1' is not defined
+[Senin, 23 - 12 - 2019 | 20:04:02] Request-sent
+[Selasa, 24 - 12 - 2019 | 17:48:58] Request-sent
+[Rabu, 25 - 12 - 2019 | 20:45:31] list index out of range
+[Kamis, 26 - 12 - 2019 | 11:54:18] list index out of range
+[Kamis, 26 - 12 - 2019 | 12:02:32] list index out of range
+[Kamis, 26 - 12 - 2019 | 12:19:02] list index out of range
+[Kamis, 26 - 12 - 2019 | 12:55:54] list index out of range
+[Jumat, 27 - 12 - 2019 | 20:00:43] list index out of range
+[Minggu, 29 - 12 - 2019 | 21:26:24] Request-sent
+[Minggu, 29 - 12 - 2019 | 23:38:43] list index out of range
+[Rabu, 01 - 01 - 2020 | 16:25:04] list index out of range
+[Rabu, 01 - 01 - 2020 | 16:26:26] list index out of range
+[Rabu, 01 - 01 - 2020 | 17:56:45] list index out of range
+[Rabu, 01 - 01 - 2020 | 18:39:37] list index out of range
+[Rabu, 01 - 01 - 2020 | 18:39:55] list index out of range
+[Rabu, 01 - 01 - 2020 | 20:07:07] list index out of range
+[Kamis, 02 - 01 - 2020 | 00:04:43] list index out of range
+[Kamis, 02 - 01 - 2020 | 00:08:14] list index out of range
+[Kamis, 02 - 01 - 2020 | 09:42:22] list index out of range
+[Kamis, 02 - 01 - 2020 | 09:50:30] list index out of range
+[Kamis, 02 - 01 - 2020 | 12:01:09] list index out of range
+[Kamis, 02 - 01 - 2020 | 12:02:13] list index out of range
+[Kamis, 02 - 01 - 2020 | 14:36:53] name 'noobcoder1' is not defined
+[Kamis, 02 - 01 - 2020 | 15:05:45] list index out of range
+[Kamis, 02 - 01 - 2020 | 15:09:15] list index out of range
+[Kamis, 02 - 01 - 2020 | 15:16:57] name 'noobcoder1' is not defined
+[Kamis, 02 - 01 - 2020 | 21:18:04] name 'noobcoder1' is not defined
+[Kamis, 02 - 01 - 2020 | 21:19:04] name 'noobcoder1' is not defined
+[Jumat, 03 - 01 - 2020 | 15:20:37] Request-sent
+[Sabtu, 04 - 01 - 2020 | 18:02:47] name 'noobcoder1' is not defined
+[Minggu, 05 - 01 - 2020 | 23:56:15] Request-sent
+[Selasa, 07 - 01 - 2020 | 13:31:33] name 'noobcoder1' is not defined
+[Selasa, 07 - 01 - 2020 | 13:31:33] name 'noobcoder1' is not defined
+[Selasa, 07 - 01 - 2020 | 14:02:31] name 'noobcoder1' is not defined
+[Selasa, 07 - 01 - 2020 | 14:02:31] name 'noobcoder1' is not defined
+[Selasa, 07 - 01 - 2020 | 14:13:08] name 'noobcoder1' is not defined
+[Kamis, 09 - 01 - 2020 | 17:45:16] list index out of range
+[Jumat, 10 - 01 - 2020 | 00:47:35] name 'noobcoder1' is not defined
+[Jumat, 10 - 01 - 2020 | 10:55:08] list index out of range
+[Jumat, 10 - 01 - 2020 | 15:35:16] 'customers'
+[Jumat, 10 - 01 - 2020 | 17:59:10] name 'noobcoder1' is not defined
+[Jumat, 10 - 01 - 2020 | 18:01:30] name 'noobcoder1' is not defined
+[Sabtu, 11 - 01 - 2020 | 12:53:31] Request-sent
+[Sabtu, 11 - 01 - 2020 | 22:28:43] name 'noobcoder1' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:09] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:09] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:09] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:27] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:51] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:20:58] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:21:15] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:21:25] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:21:27] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:21:45] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:21:53] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:23:21] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:28:42] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:29:45] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:30:33] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:32:09] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:35:09] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:35:21] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:41:00] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:44:55] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:45:22] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:45:29] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:46:25] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:46:39] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:47:11] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:47:41] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:47:47] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:50:22] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:55:24] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:59:24] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 03:59:40] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:03:54] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:08:32] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:13:08] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:15:54] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:16:19] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:16:26] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:22:02] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:32:27] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:36:47] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:52:14] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:52:49] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:53:05] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:53:11] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 04:54:11] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 05:01:24] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 05:06:01] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 05:35:41] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 05:36:12] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 05:48:53] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 07:43:48] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 07:59:30] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 08:01:30] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 08:15:02] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 09:50:27] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 16:10:35] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 16:12:21] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:18:01] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:18:19] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:23:07] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:23:27] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:35:51] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:43:48] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 17:43:56] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 19:36:51] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 22:07:31] name 'noobcoder1' is not defined
+[Minggu, 12 - 01 - 2020 | 22:40:32] name 'client' is not defined
+[Minggu, 12 - 01 - 2020 | 23:43:08] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 00:09:38] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 00:47:42] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 00:57:30] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 00:59:51] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 01:23:02] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 01:37:37] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 01:42:55] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 06:51:17] name 'client' is not defined
+[Senin, 13 - 01 - 2020 | 17:53:14] name 'client' is not defined
+[Selasa, 14 - 01 - 2020 | 00:38:27] name 'client' is not defined
+[Selasa, 14 - 01 - 2020 | 05:55:58] Request-sent
+[Selasa, 14 - 01 - 2020 | 05:58:12] Request-sent
+[Selasa, 14 - 01 - 2020 | 06:03:54] Request-sent
+[Selasa, 14 - 01 - 2020 | 06:39:49] name 'client' is not defined
+[Selasa, 14 - 01 - 2020 | 12:35:14] name 'client' is not defined
+[Selasa, 14 - 01 - 2020 | 15:36:36] name 'noobcoder1' is not defined
+[Selasa, 14 - 01 - 2020 | 15:37:01] name 'noobcoder1' is not defined
+[Selasa, 14 - 01 - 2020 | 15:41:24] name 'noobcoder1' is not defined
+[Selasa, 14 - 01 - 2020 | 23:04:07] name 'noobcoder1' is not defined
+[Rabu, 15 - 01 - 2020 | 01:24:00] name 'client' is not defined
+[Kamis, 16 - 01 - 2020 | 23:26:35] name 'noobcoder1' is not defined
+[Jumat, 17 - 01 - 2020 | 17:26:32] name 'noobcoder1' is not defined
+[Sabtu, 18 - 01 - 2020 | 15:06:11] name 'noobcoder1' is not defined
+[Sabtu, 18 - 01 - 2020 | 17:00:06] name 'noobcoder1' is not defined
+[Sabtu, 18 - 01 - 2020 | 17:04:36] name 'noobcoder1' is not defined
+[Sabtu, 18 - 01 - 2020 | 17:06:41] name 'noobcoder1' is not defined
+[Sabtu, 18 - 01 - 2020 | 20:39:54] name 'noobcoder1' is not defined
+[Minggu, 19 - 01 - 2020 | 19:22:27] list index out of range
+[Sabtu, 25 - 01 - 2020 | 15:24:35] name 'noobcoder1' is not defined
+[Sabtu, 25 - 01 - 2020 | 16:56:43] Request-sent
+[Sabtu, 25 - 01 - 2020 | 16:56:47] Request-sent
+[Sabtu, 25 - 01 - 2020 | 16:56:58] Request-sent
+[Minggu, 26 - 01 - 2020 | 18:06:47] Request-sent
+[Minggu, 26 - 01 - 2020 | 18:44:26] Request-sent
+[Minggu, 26 - 01 - 2020 | 19:57:31] list index out of range
+[Senin, 27 - 01 - 2020 | 02:06:18] Request-sent
+[Senin, 27 - 01 - 2020 | 08:14:56] list index out of range
+[Kamis, 30 - 01 - 2020 | 21:02:39] name 'noobcoder1' is not defined
+[Senin, 03 - 02 - 2020 | 22:09:12] Request-sent
+[Senin, 03 - 02 - 2020 | 22:09:17] Request-sent
+[Senin, 03 - 02 - 2020 | 22:09:27] Request-sent
+[Selasa, 04 - 02 - 2020 | 08:05:25] invalid literal for int() with base 10: 'nomornya'
+[Rabu, 05 - 02 - 2020 | 01:45:42] Request-sent
+[Rabu, 05 - 02 - 2020 | 01:45:45] Request-sent
+[Rabu, 05 - 02 - 2020 | 01:45:55] Request-sent
+[Rabu, 05 - 02 - 2020 | 06:41:51] name 'noobcoder1' is not defined
+[Kamis, 06 - 02 - 2020 | 10:19:18] list index out of range
+[Kamis, 06 - 02 - 2020 | 10:27:15] list index out of range
+[Kamis, 06 - 02 - 2020 | 10:30:42] list index out of range
+[Kamis, 06 - 02 - 2020 | 10:36:32] list index out of range
+[Kamis, 06 - 02 - 2020 | 11:46:00] list index out of range
+[Jumat, 07 - 02 - 2020 | 07:57:20] name 'noobcoder1' is not defined
+[Sabtu, 08 - 02 - 2020 | 03:24:04] name 'noobcoder1' is not defined
+[Minggu, 09 - 02 - 2020 | 04:02:07] Request-sent
+[Minggu, 09 - 02 - 2020 | 19:40:34] list index out of range
+[Minggu, 09 - 02 - 2020 | 19:41:45] list index out of range
+[Senin, 10 - 02 - 2020 | 08:31:06] name 'noobcoder1' is not defined
+[Senin, 10 - 02 - 2020 | 23:12:54] list index out of range
+[Senin, 10 - 02 - 2020 | 23:16:00] list index out of range
+[Senin, 10 - 02 - 2020 | 23:20:02] list index out of range
+[Senin, 10 - 02 - 2020 | 23:35:27] list index out of range
+[Selasa, 11 - 02 - 2020 | 15:30:37] list index out of range
+[Selasa, 11 - 02 - 2020 | 15:57:34] list index out of range
+[Selasa, 11 - 02 - 2020 | 18:27:59] list index out of range
+[Selasa, 11 - 02 - 2020 | 22:56:25] name 'noobcoder1' is not defined
+[Selasa, 11 - 02 - 2020 | 23:18:10] Request-sent
+[Rabu, 12 - 02 - 2020 | 05:58:49] list index out of range
+[Rabu, 12 - 02 - 2020 | 05:59:29] list index out of range
+[Kamis, 13 - 02 - 2020 | 14:55:12] list index out of range
+[Kamis, 13 - 02 - 2020 | 15:00:47] list index out of range
+[Jumat, 14 - 02 - 2020 | 19:12:26] invalid literal for int() with base 10: 'nomernya'
+[Sabtu, 15 - 02 - 2020 | 21:46:27] list index out of range
+[Minggu, 16 - 02 - 2020 | 23:20:00] list index out of range
+[Senin, 17 - 02 - 2020 | 01:38:18] name 'noobcoder1' is not defined
+[Senin, 17 - 02 - 2020 | 02:06:40] Request-sent
+[Senin, 17 - 02 - 2020 | 10:07:01] list index out of range
+[Senin, 17 - 02 - 2020 | 12:11:53] list index out of range
+[Senin, 17 - 02 - 2020 | 17:15:53] list index out of range
+[Senin, 17 - 02 - 2020 | 17:16:23] list index out of range
+[Senin, 17 - 02 - 2020 | 20:04:47] Request-sent
+[Senin, 17 - 02 - 2020 | 20:04:59] Request-sent
+[Senin, 17 - 02 - 2020 | 20:05:09] Request-sent
+[Senin, 17 - 02 - 2020 | 22:17:17] Request-sent
+[Senin, 17 - 02 - 2020 | 22:38:20] list index out of range
+[Senin, 17 - 02 - 2020 | 22:38:27] list index out of range
+[Senin, 17 - 02 - 2020 | 22:38:46] list index out of range
+[Senin, 17 - 02 - 2020 | 22:45:04] Request-sent
+[Selasa, 18 - 02 - 2020 | 04:26:25] list index out of range
+[Selasa, 18 - 02 - 2020 | 18:29:26] name 'noobcoder1' is not defined
+[Selasa, 18 - 02 - 2020 | 20:58:25] Request-sent
+[Selasa, 18 - 02 - 2020 | 20:58:30] Request-sent
+[Rabu, 19 - 02 - 2020 | 03:44:16] Request-sent
+[Rabu, 19 - 02 - 2020 | 03:57:24] 'u864d96343c6ff6a54c46d1588cad232f'
+[Rabu, 19 - 02 - 2020 | 06:00:20] Request-sent
+[Rabu, 19 - 02 - 2020 | 06:00:53] Request-sent
+[Rabu, 19 - 02 - 2020 | 19:52:30] 'customers'
+[Rabu, 19 - 02 - 2020 | 22:56:36] Request-sent
+[Rabu, 19 - 02 - 2020 | 22:56:41] Request-sent
+[Rabu, 19 - 02 - 2020 | 22:56:51] Request-sent
+[Rabu, 19 - 02 - 2020 | 23:55:37] list index out of range
+[Rabu, 19 - 02 - 2020 | 23:56:18] list index out of range
+[Rabu, 19 - 02 - 2020 | 23:58:59] name 'noobcoder1' is not defined
+[Kamis, 20 - 02 - 2020 | 04:36:41] 'customers'
+[Kamis, 20 - 02 - 2020 | 16:33:33] Request-sent
+[Kamis, 20 - 02 - 2020 | 17:28:17] Invalid mids
+[Kamis, 20 - 02 - 2020 | 17:29:40] Invalid mids
+[Kamis, 20 - 02 - 2020 | 17:57:26] Request-sent
+[Kamis, 20 - 02 - 2020 | 17:57:31] Request-sent
+[Kamis, 20 - 02 - 2020 | 17:57:41] Request-sent
+[Kamis, 20 - 02 - 2020 | 17:57:41] Request-sent
+[Kamis, 20 - 02 - 2020 | 18:05:07] 'customers'
+[Jumat, 21 - 02 - 2020 | 05:42:59] Request-sent
+[Jumat, 21 - 02 - 2020 | 06:21:49] list index out of range
+[Jumat, 21 - 02 - 2020 | 06:29:03] Request-sent
+[Jumat, 21 - 02 - 2020 | 06:29:54] Request-sent
+[Jumat, 21 - 02 - 2020 | 06:30:04] Request-sent
+[Jumat, 21 - 02 - 2020 | 06:37:57] 'u46882ff8019fd3a64e6bc91505875809'
+[Jumat, 21 - 02 - 2020 | 10:48:14] list index out of range
+[Jumat, 21 - 02 - 2020 | 17:28:23] Request-sent
+[Jumat, 21 - 02 - 2020 | 19:49:54] Request-sent
+[Jumat, 21 - 02 - 2020 | 19:50:00] Request-sent
+[Jumat, 21 - 02 - 2020 | 19:50:10] Request-sent
+[Jumat, 21 - 02 - 2020 | 22:54:20] Request-sent
+[Jumat, 21 - 02 - 2020 | 22:56:03] Request-sent
+[Senin, 24 - 02 - 2020 | 07:21:42] Request-sent
+[Senin, 24 - 02 - 2020 | 13:21:48] Request-sent
+[Selasa, 25 - 02 - 2020 | 01:14:43] Request-sent
+[Selasa, 25 - 02 - 2020 | 01:14:53] Request-sent
+[Selasa, 25 - 02 - 2020 | 13:44:45] name 'noobcoder1' is not defined
+[Selasa, 25 - 02 - 2020 | 18:26:53] name 'noobcoder1' is not defined
+[Selasa, 25 - 02 - 2020 | 18:48:37] Request-sent
+[Selasa, 25 - 02 - 2020 | 18:49:03] Request-sent
+[Rabu, 26 - 02 - 2020 | 00:58:39] Request-sent
+[Rabu, 26 - 02 - 2020 | 01:09:44] Request-sent
+[Rabu, 26 - 02 - 2020 | 07:24:41] list index out of range
+[Rabu, 26 - 02 - 2020 | 20:49:33] Request-sent
+[Rabu, 26 - 02 - 2020 | 20:50:04] Request-sent
+[Rabu, 26 - 02 - 2020 | 20:50:17] Request-sent
+[Rabu, 26 - 02 - 2020 | 23:24:24] Request-sent
+[Kamis, 27 - 02 - 2020 | 00:43:41] Request-sent
+[Kamis, 27 - 02 - 2020 | 00:43:44] Request-sent
+[Kamis, 27 - 02 - 2020 | 00:43:54] Request-sent
+[Jumat, 28 - 02 - 2020 | 03:55:55] Request-sent
+[Jumat, 28 - 02 - 2020 | 20:29:05] Request-sent
+[Jumat, 28 - 02 - 2020 | 21:26:26] name 'noobcoder1' is not defined
+[Jumat, 28 - 02 - 2020 | 23:40:11] Request-sent
+[Jumat, 28 - 02 - 2020 | 23:40:14] Request-sent
+[Jumat, 28 - 02 - 2020 | 23:40:24] Request-sent
+[Senin, 02 - 03 - 2020 | 22:43:26] list index out of range
+[Rabu, 04 - 03 - 2020 | 05:11:01] Request-sent
+[Rabu, 04 - 03 - 2020 | 05:11:05] Request-sent
+[Rabu, 04 - 03 - 2020 | 19:35:57] list index out of range
+[Rabu, 04 - 03 - 2020 | 19:37:34] list index out of range
+[Sabtu, 07 - 03 - 2020 | 18:43:40] list index out of range
+[Minggu, 08 - 03 - 2020 | 22:04:33] list index out of range
+[Senin, 09 - 03 - 2020 | 03:17:06] list index out of range
+[Senin, 09 - 03 - 2020 | 03:17:11] list index out of range
+[Senin, 09 - 03 - 2020 | 05:52:19] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 06:35:44] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 07:09:39] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 08:45:24] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 19:27:59] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 20:04:40] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 20:10:38] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 20:23:10] name 'noobcoder1' is not defined
+[Senin, 09 - 03 - 2020 | 20:51:23] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 03:45:36] list index out of range
+[Selasa, 10 - 03 - 2020 | 05:03:41] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 06:01:06] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 07:51:14] TalkException(code=10, reason='not a member', parameterMap={})
+[Selasa, 10 - 03 - 2020 | 09:20:28] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 15:26:41] 'ua360f593cf3e0cb296ee9bc14d9c74d2'
+[Selasa, 10 - 03 - 2020 | 17:16:15] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 17:31:22] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 17:45:13] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 18:43:24] name 'noobcoder1' is not defined
+[Selasa, 10 - 03 - 2020 | 20:29:35] list index out of range
+[Selasa, 10 - 03 - 2020 | 20:34:16] TalkException(code=10, reason='not a member', parameterMap={})
+[Rabu, 11 - 03 - 2020 | 01:23:43] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 04:27:12] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 04:28:40] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 06:51:49] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 07:08:09] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 09:12:08] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 10:00:03] name 'noobcoder1' is not defined
+[Rabu, 11 - 03 - 2020 | 10:44:37] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 03:41:26] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 03:43:30] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 04:41:03] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 08:20:21] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 09:54:58] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 10:16:07] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 10:42:54] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 10:52:38] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 11:32:13] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 13:33:56] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 13:44:56] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 17:59:39] name 'noobcoder1' is not defined
+[Kamis, 12 - 03 - 2020 | 21:06:50] name 'noobcoder1' is not defined
+[Jumat, 13 - 03 - 2020 | 03:53:49] list index out of range
+[Jumat, 13 - 03 - 2020 | 04:21:09] list index out of range
+[Jumat, 13 - 03 - 2020 | 17:49:59] name 'noobcoder1' is not defined
+[Jumat, 13 - 03 - 2020 | 20:20:26] name 'noobcoder1' is not defined
+[Sabtu, 14 - 03 - 2020 | 03:44:27] name 'noobcoder1' is not defined
+[Sabtu, 14 - 03 - 2020 | 10:59:57] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 02:57:45] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 06:41:15] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 06:42:28] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 08:27:20] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 09:09:30] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 10:11:47] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 10:44:52] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 10:45:08] name 'noobcoder1' is not defined
+[Minggu, 15 - 03 - 2020 | 20:07:20] name 'noobcoder1' is not defined
+[Senin, 16 - 03 - 2020 | 03:12:28] list index out of range
+[Senin, 16 - 03 - 2020 | 06:20:16] name 'noobcoder1' is not defined
+[Senin, 16 - 03 - 2020 | 06:22:47] name 'noobcoder1' is not defined
+[Senin, 16 - 03 - 2020 | 10:38:34] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 00:25:53] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 01:53:20] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 01:58:53] TalkException(code=10, reason='You are not related to group: ce601524a9efebe18ba6bfbe31e8bf5df', parameterMap={'2': 'ce601524a9efebe18ba6bfbe31e8bf5df'})
+[Selasa, 17 - 03 - 2020 | 05:52:13] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Selasa, 17 - 03 - 2020 | 08:25:50] TalkException(code=10, reason='You are not related to group: c59a1c7acba009b11a0f2e15c04262857', parameterMap={'2': 'c59a1c7acba009b11a0f2e15c04262857'})
+[Selasa, 17 - 03 - 2020 | 08:26:48] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 10:17:15] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 10:17:27] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 10:21:08] name 'noobcoder1' is not defined
+[Selasa, 17 - 03 - 2020 | 13:15:48] name 'noobcoder1' is not defined
+[Rabu, 18 - 03 - 2020 | 10:04:42] name 'noobcoder1' is not defined
+[Rabu, 18 - 03 - 2020 | 10:05:09] name 'noobcoder1' is not defined
+[Rabu, 18 - 03 - 2020 | 11:58:14] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 12:17:19] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 13:17:24] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 13:17:57] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 13:19:25] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 13:23:51] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Rabu, 18 - 03 - 2020 | 13:28:05] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 19 - 03 - 2020 | 01:12:58] name 'noobcoder1' is not defined
+[Kamis, 19 - 03 - 2020 | 01:13:21] name 'noobcoder1' is not defined
+[Kamis, 19 - 03 - 2020 | 01:52:16] name 'noobcoder1' is not defined
+[Sabtu, 21 - 03 - 2020 | 03:07:43] name 'noobcoder1' is not defined
+[Sabtu, 21 - 03 - 2020 | 03:35:07] name 'noobcoder1' is not defined
+[Sabtu, 21 - 03 - 2020 | 11:51:36] name 'noobcoder1' is not defined
+[Sabtu, 21 - 03 - 2020 | 15:52:00] name 'noobcoder1' is not defined
+[Minggu, 22 - 03 - 2020 | 05:34:08] name 'noobcoder1' is not defined
+[Minggu, 22 - 03 - 2020 | 08:37:53] TalkException(code=10, reason='You are not related to group: c59a1c7acba009b11a0f2e15c04262857', parameterMap={'2': 'c59a1c7acba009b11a0f2e15c04262857'})
+[Minggu, 22 - 03 - 2020 | 08:41:59] TalkException(code=10, reason='You are not related to group: c59a1c7acba009b11a0f2e15c04262857', parameterMap={'2': 'c59a1c7acba009b11a0f2e15c04262857'})
+[Minggu, 22 - 03 - 2020 | 15:33:26] name 'noobcoder1' is not defined
+[Senin, 23 - 03 - 2020 | 03:39:16] name 'noobcoder1' is not defined
+[Senin, 23 - 03 - 2020 | 06:46:51] list index out of range
+[Senin, 23 - 03 - 2020 | 12:23:08] name 'noobcoder1' is not defined
+[Senin, 23 - 03 - 2020 | 18:48:44] name 'noobcoder1' is not defined
+[Selasa, 24 - 03 - 2020 | 08:48:30] name 'noobcoder1' is not defined
+[Rabu, 25 - 03 - 2020 | 06:16:09] name 'noobcoder1' is not defined
+[Rabu, 25 - 03 - 2020 | 07:45:56] TalkException(code=10, reason='You are not related to group: c611cfddae267e7839cb00fd7385c46cf', parameterMap={'2': 'c611cfddae267e7839cb00fd7385c46cf'})
+[Rabu, 25 - 03 - 2020 | 11:08:31] name 'noobcoder1' is not defined
+[Rabu, 25 - 03 - 2020 | 14:02:15] name 'client' is not defined
+[Rabu, 25 - 03 - 2020 | 19:04:30] name 'noobcoder1' is not defined
+[Rabu, 25 - 03 - 2020 | 20:13:42] name 'noobcoder1' is not defined
+[Kamis, 26 - 03 - 2020 | 00:06:06] name 'noobcoder1' is not defined
+[Kamis, 26 - 03 - 2020 | 02:22:43] name 'noobcoder1' is not defined
+[Kamis, 26 - 03 - 2020 | 03:36:04] name 'noobcoder1' is not defined
+[Jumat, 10 - 04 - 2020 | 00:25:52] name 'noobcoder1' is not defined
+[Jumat, 10 - 04 - 2020 | 17:54:05] name 'noobcoder1' is not defined
+[Minggu, 12 - 04 - 2020 | 01:19:02] list index out of range
+[Minggu, 12 - 04 - 2020 | 02:46:44] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Minggu, 12 - 04 - 2020 | 03:01:42] name 'noobcoder1' is not defined
+[Minggu, 12 - 04 - 2020 | 08:37:40] name 'noobcoder1' is not defined
+[Senin, 13 - 04 - 2020 | 13:20:34] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 13 - 04 - 2020 | 13:20:35] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 13 - 04 - 2020 | 20:06:48] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 13 - 04 - 2020 | 20:06:48] TalkException(code=10, reason='not a member', parameterMap={})
+[Sabtu, 18 - 04 - 2020 | 06:13:00] name 'noobcoder1' is not defined
