@@ -1,6 +1,6 @@
 # HELPER
-#  ☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜
-# ☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜
+#  Ālshàfêy ßøts
+# Ālshàfêy ßøts
 from linepy import *
 from akad.ttypes import Message
 from liff.ttypes import LiffChatContext, LiffContext, LiffSquareChatContext, LiffNoneContext, LiffViewRequest
@@ -55,7 +55,7 @@ noobcoderPoll = OEPoll(noobcoder)
 noobcoderMID = noobcoder.getProfile().mid
 #=====================================================================
 loop = asyncio.get_event_loop()
-myAdmin = ["u29c4bb607fb8476b1ee77d0f1f7f14a2","ue553118bead484cf8a529217056f0689","ufe4acfc1c51725d653385efbd331b9ed","u081b18974bf84d72b13aad6eae865f9d"]
+myAdmin = ["u081b18974bf84d72b13aad6eae865f9d"]
 botStart = time.time()
 msg_dict = {}
 temp_flood = {}
@@ -107,7 +107,7 @@ setbot = {
 }
 
 gwcool = {
-    "squad": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+    "squad": "Ālshàfêy ßøts",
 }
 
 javascript = {
@@ -349,7 +349,7 @@ def loginsb(to, msg, header, ajs=None, certificate="", file=None):
                     "contents": [
                         {
                             "action": {
-                                "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                                "label": "Ālshàfêy ßøts",
                                 "type": "uri",
                                 "uri": "{}".format(res["url"])
                             },
@@ -482,7 +482,7 @@ def loginsb(to, msg, header, ajs=None, certificate="", file=None):
                     "contents": [
                         {
                             "action": {
-                                "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                                "label": "Ālshàfêy ßøts",
                                 "type": "uri",
                                 "uri": "{}".format(res["get_link"])
                             },
@@ -559,7 +559,7 @@ def loginsb(to, msg, header, ajs=None, certificate="", file=None):
                         os.system('screen -dmS {}'.format(user))
                         os.system('screen -r {} -X stuff "cd {} && python3 {}.py -t {}\n"'.format(user, user, file, ajs))
                     #noobcoder.sendMessage(to, "< Notification >\n\nFile : {}\nStatus : Login Success".format(user))
-                    data={"type":"flex","altText":"☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜™","contents":{
+                    data={"type":"flex","altText":"Ālshàfêy ßøts","contents":{
   "type": "bubble",
   "body": {
     "type": "box",
@@ -725,7 +725,7 @@ def loginar(to, msg, header, certificate=""):
                     "contents": [
                         {
                             "action": {
-                                "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                                "label": "Ālshàfêy ßøts",
                                 "type": "uri",
                                 "uri": "{}".format(res["url"])
                             },
@@ -858,7 +858,7 @@ def loginar(to, msg, header, certificate=""):
                     "contents": [
                         {
                             "action": {
-                                "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                                "label": "Ālshàfêy ßøts",
                                 "type": "uri",
                                 "uri": "{}".format(res["get_link"])
                             },
@@ -928,7 +928,7 @@ def loginar(to, msg, header, certificate=""):
                     os.system('screen -dmS {}'.format(user))
                     os.system('screen -r {} -X stuff "cd {} && python3 hamzh.py\n"'.format(user, user))
                     #noobcoder.sendMessage(to, "< Notification >\n\nFile : {}\nStatus : Login Success".format(user))
-                    data={"type":"flex","altText":"☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜™","contents":{
+                    data={"type":"flex","altText":"Ālshàfêy ßøts","contents":{
   "type": "bubble",
   "body": {
     "type": "box",
@@ -1127,7 +1127,7 @@ def sendFooter2(to, text):
                 {
                     "action": {
                         "type": "uri",
-                        "uri": "https://line.me/ti/p/~66.6p",
+                        "uri": "https://line.me/ti/p/~alshafey12345",
                     },
                     "aspectMode": "cover",
                     "aspectRatio": "30:7",
@@ -1157,7 +1157,7 @@ def sendFooter2(to, text):
                     "backgroundColor": "#00000Cac",
                     "contents": [
                         {
-                            "uri": "https://line.me/ti/p/~66.6p",
+                            "uri": "https://line.me/ti/p/~alshafey12345",
                             "type": "text"
                         }
                     ],
@@ -1194,9 +1194,9 @@ def sendFooter2(to, text):
                         },
                         {
                             "action": {
-                                "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                                "label": "Ālshàfêy ßøts",
                                 "type": "uri",
-                                "uri": "https://line.me/ti/p/~66.6p", 
+                                "uri": "https://line.me/ti/p/~alshafey12345", 
                             },
                             "color": "#33FFCCac",
                             "type": "button"
@@ -1265,7 +1265,7 @@ def sendFooter1(to, isi):
         "type": "text",
         "text": isi,
         "sentBy": {
-            "label": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜™",
+            "label": "Ālshàfêy ßøts",
             "iconUrl": "https://obs.line-scdn.net/{}".format(noobcoder.getContact('u29c4bb607fb8476b1ee77d0f1f7f14a2').pictureStatus),
             "linkUrl": "line://nv/profilePopup/mid=u29c4bb607fb8476b1ee77d0f1f7f14a2"
         }
@@ -2326,14 +2326,14 @@ async def noobcoderBot(op):
             "contents": [
               {
                 "type": "text",
-                "text": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                "text": "Ālshàfêy ßøts",
                 "size": "xl",
                 "color": "#FFFFFF",
                 "weight": "bold"
               },
               {
                 "type": "text",
-                "text": "☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜",
+                "text": "Ālshàfêy ßøts",
                 "size": "md",
                 "color": "#FFFFFF",
                 "weight": "bold"
@@ -3897,7 +3897,7 @@ async def noobcoderBot(op):
                                 ret_ += "\n\n< About Bots >\n"
                                 ret_ += "\nType : Selfbot"
                                 ret_ += "\nVersion : V.09\n"
-                                ret_ += "\nMaker :  ☞︎ 🇶🇦⃤𝘽𝙊𝙏𝙎 ● 𝗞𝗚𝗧 🇸🇦⃤☜"
+                                ret_ += "\nMaker :  Ālshàfêy ßøts"
                                 sendFooter(to, str(ret_))
                             except Exception as e:
                                 noobcoder.sendMessage(to, str(e))
