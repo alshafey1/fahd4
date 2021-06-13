@@ -1,0 +1,140 @@
+
+[Minggu, 02 - 02 - 2020 | 18:36:15] name 'fontbot' is not defined
+[Senin, 23 - 03 - 2020 | 00:45:13] local variable 'txt' referenced before assignment
+[Senin, 23 - 03 - 2020 | 02:01:57] local variable 'd' referenced before assignment
+[Senin, 23 - 03 - 2020 | 02:25:37] 'in <string>' requires string as left operand, not list
+[Senin, 23 - 03 - 2020 | 02:38:47] 'in <string>' requires string as left operand, not list
+[Minggu, 06 - 12 - 2020 | 18:46:42] Expecting value: line 1 column 1 (char 0)
+[Minggu, 06 - 12 - 2020 | 18:47:21] [0;31mERROR:[0m ANS9sSJA9Yc: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 18:50:08] [0;31mERROR:[0m ANS9sSJA9Yc: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 18:50:26] [0;31mERROR:[0m ANS9sSJA9Yc: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 18:51:58] [0;31mERROR:[0m Unable to extract [0;34mJS player URL[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+[Minggu, 06 - 12 - 2020 | 18:56:58] [0;31mERROR:[0m q4BweGgWvo0: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 18:59:23] [0;31mERROR:[0m wrzSXDehrEM: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 19:00:06] [0;31mERROR:[0m jGIrfLyQ2W0: Youtube says: Unable to extract video data
+[Minggu, 06 - 12 - 2020 | 19:06:48] ('Connection aborted.', OSError("(104, 'ECONNRESET')",))
+[Minggu, 06 - 12 - 2020 | 19:10:23] ('Connection aborted.', OSError("(32, 'EPIPE')",))
+[Minggu, 06 - 12 - 2020 | 19:12:43] Expecting value: line 1 column 1 (char 0)
+[Minggu, 06 - 12 - 2020 | 19:15:47] name 'TEXTLIB' is not defined
+[Minggu, 06 - 12 - 2020 | 21:04:07] 'mp3Url'
+[Minggu, 06 - 12 - 2020 | 21:04:42] 'm4aUrl'
+[Minggu, 06 - 12 - 2020 | 21:12:29] Expecting value: line 1 column 1 (char 0)
+[Minggu, 06 - 12 - 2020 | 21:13:16] Expecting value: line 1 column 1 (char 0)
+[Minggu, 06 - 12 - 2020 | 21:21:50] Expecting value: line 1 column 1 (char 0)
+[Minggu, 06 - 12 - 2020 | 21:27:16] local variable 'ret_' referenced before assignment
+[Minggu, 06 - 12 - 2020 | 21:27:57] 'mp3Url'
+[Minggu, 06 - 12 - 2020 | 21:43:01] local variable 'ret_' referenced before assignment
+[Minggu, 06 - 12 - 2020 | 21:43:17] local variable 'ret_' referenced before assignment
+[Minggu, 06 - 12 - 2020 | 22:56:05] 'preview_url'
+[Minggu, 06 - 12 - 2020 | 22:57:05] 'preview_url'
+[Minggu, 06 - 12 - 2020 | 22:58:52] 'images'
+[Minggu, 06 - 12 - 2020 | 23:03:23] list indices must be integers or slices, not str
+[Minggu, 06 - 12 - 2020 | 23:09:28] list indices must be integers or slices, not str
+[Minggu, 06 - 12 - 2020 | 23:11:01] list indices must be integers or slices, not str
+[Senin, 07 - 12 - 2020 | 06:11:28] list indices must be integers or slices, not str
+[Senin, 07 - 12 - 2020 | 06:19:31] list indices must be integers or slices, not str
+[Senin, 07 - 12 - 2020 | 07:11:37] string indices must be integers
+[Senin, 07 - 12 - 2020 | 07:13:11] string indices must be integers
+[Senin, 07 - 12 - 2020 | 07:19:05] string indices must be integers
+[Senin, 07 - 12 - 2020 | 07:21:05] string indices must be integers
+[Senin, 07 - 12 - 2020 | 07:22:23] string indices must be integers
+[Senin, 07 - 12 - 2020 | 07:26:01] 'mp3Url'
+[Senin, 07 - 12 - 2020 | 07:27:49] 'm4aUrl'
+[Senin, 07 - 12 - 2020 | 07:30:27] 'mp3Url'
+[Senin, 07 - 12 - 2020 | 07:31:08] 'mp3Url'
+[Senin, 07 - 12 - 2020 | 07:33:37] list indices must be integers or slices, not str
+[Senin, 07 - 12 - 2020 | 09:25:38] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:25:43] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:25:44] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:25:56] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:26:08] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:26:18] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:26:19] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:31:25] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:31:55] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:12] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:12] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:13] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:13] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:13] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:13] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:14] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:16] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:17] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:17] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:17] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:32:48] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:33:33] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:34:02] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:34:09] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:34:37] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:34:41] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:37:41] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:37:51] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:37:52] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:38:23] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 09:41:56] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:02:01] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:03:31] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:03:37] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:03:40] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:14:06] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:14:14] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:14:32] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:16:50] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:32:44] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:32:51] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:44:05] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:44:08] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:44:50] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:44:54] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:45:00] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:45:02] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:45:07] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:45:45] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:59:36] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 10:59:40] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:10:57] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:11:48] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:11:51] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:11:56] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:11:58] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:38:05] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:38:39] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:38:43] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:38:49] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 12:38:51] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:23:13] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:24:05] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:24:15] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:31:34] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:31:35] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:31:43] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:33:47] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:34:10] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:34:23] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:34:44] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:34:46] 'NoneType' object has no attribute 'keys'
+[Senin, 07 - 12 - 2020 | 22:55:41] 'NoneType' object has no attribute 'keys'
+[Selasa, 08 - 12 - 2020 | 04:30:43] 'in <string>' requires string as left operand, not list
+[Selasa, 08 - 12 - 2020 | 08:38:31] local variable 'ret_' referenced before assignment
+[Selasa, 08 - 12 - 2020 | 08:39:10] Expecting value: line 1 column 1 (char 0)
+[Selasa, 08 - 12 - 2020 | 08:39:32] 'time'
+[Selasa, 08 - 12 - 2020 | 08:39:38] 'time'
+[Selasa, 08 - 12 - 2020 | 08:43:24] Expecting value: line 1 column 1 (char 0)
+[Selasa, 08 - 12 - 2020 | 08:46:35] Expecting value: line 1 column 1 (char 0)
+[Selasa, 08 - 12 - 2020 | 08:47:41] Expecting value: line 1 column 1 (char 0)
+[Selasa, 08 - 12 - 2020 | 08:58:20] Expecting value: line 1 column 1 (char 0)
+[Selasa, 08 - 12 - 2020 | 09:19:21] 'result'
+[Selasa, 08 - 12 - 2020 | 09:22:49] 'result'
+[Selasa, 08 - 12 - 2020 | 09:24:56] local variable 'data' referenced before assignment
+[Selasa, 08 - 12 - 2020 | 09:25:50] 'result'
+[Selasa, 08 - 12 - 2020 | 09:27:12] 'result'
+[Selasa, 08 - 12 - 2020 | 09:28:28] 'result'
+[Kamis, 24 - 12 - 2020 | 04:20:16] [Errno 2] No such file or directory: 'nbteam/flex'
+[Kamis, 24 - 12 - 2020 | 04:20:35] [Errno 2] No such file or directory: 'nbteam/flex'
+[Kamis, 24 - 12 - 2020 | 05:42:11] 'in <string>' requires string as left operand, not list
+[Kamis, 24 - 12 - 2020 | 05:42:11] 'in <string>' requires string as left operand, not list
+[Kamis, 24 - 12 - 2020 | 05:42:11] 'in <string>' requires string as left operand, not list
+[Kamis, 24 - 12 - 2020 | 05:42:11] 'in <string>' requires string as left operand, not list
+[Kamis, 24 - 12 - 2020 | 08:30:06] 'in <string>' requires string as left operand, not list
