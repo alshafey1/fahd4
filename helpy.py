@@ -39,7 +39,7 @@ except ImportError:
     import urllib2
 #=====================================================================
 nbcorp = NB()
-noobcoder = LINE("fhoode11299@icloud.com","Ff1122334455",appName=nbcorp.getAppName('chrome'))
+noobcoder = LINE("kgtkgt1129@gmail.com","fhd12345",appName=nbcorp.getAppName('chrome'))
 Channel(noobcoder, nbcorp.getChannel('chanliff')).getChannelResult().channelAccessToken
 #=======================================================
 waitOpen = codecs.open("settings/wait.json","r","utf-8")
@@ -55,7 +55,7 @@ noobcoderPoll = OEPoll(noobcoder)
 noobcoderMID = noobcoder.getProfile().mid
 #=====================================================================
 loop = asyncio.get_event_loop()
-myAdmin = ["u29c4bb607fb8476b1ee77d0f1f7f14a2","ue553118bead484cf8a529217056f0689","ufe4acfc1c51725d653385efbd331b9ed"]
+myAdmin = ["u29c4bb607fb8476b1ee77d0f1f7f14a2","ue553118bead484cf8a529217056f0689","ufe4acfc1c51725d653385efbd331b9ed","u081b18974bf84d72b13aad6eae865f9d"]
 botStart = time.time()
 msg_dict = {}
 temp_flood = {}
